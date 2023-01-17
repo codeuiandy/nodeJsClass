@@ -1,0 +1,3 @@
+To be able to install packages with to run npm init
+
+to Install a package to use only during development>>>>>U add d [package name] then add  --save-dev
